@@ -15,7 +15,7 @@ Developed using Node.js and Express, this project acts as a dynamic load balance
 Clone the project
 
 ```bash
-  git clone https://github.com/rudra07-git/load-warden.git
+  git clone https://github.com/rudra07-git/Load-Balancer.git
 ```
 
 Go to the project directory
